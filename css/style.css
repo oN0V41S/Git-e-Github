@@ -15,6 +15,11 @@ main{
     padding: 12px;
 }
 
-img, .lado{
+article{
+    display: flex;
+    flex-direction: column;
+}
+
+img .lado{
     float: right;
 }
