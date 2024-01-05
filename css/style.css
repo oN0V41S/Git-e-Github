@@ -20,6 +20,6 @@ article{
     flex-direction: column;
 }
 
-img.lado{
+.lado{
     float: right;
 }
