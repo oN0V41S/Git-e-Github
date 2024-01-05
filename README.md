@@ -1,6 +1,1 @@
-# Olá, Mundo
-Prmeiro Repositório criado do curso de Git e Github
-
-Repositório criado durante aula ao vivo
-
-Editando código diretamente no Github
+# Site Simples que será desenvolvido para testar aluns conhecimentos do curso de Git e Github, como Branchs e o Github pages
